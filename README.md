@@ -1,5 +1,5 @@
 # Ex.No: 01 PLOT A TIME SERIES DATA
-###  Date: 21:9:24
+###  Date: 09:8:24
 
 # AIM:
 To Develop a python program to Plot a time series data (population/ market price of a commodity
